@@ -1,9 +1,8 @@
 <?php
 
-  #create variable
+#Ñîçäàéòå ïåğåìåííóş, èñïîëüçóÿ if íàïèøèòå êîíñòğóêöèş
   $age = 33;
 
-  #use "if else"
   if ($age > 18 && $age < 65) {
     echo "You still work and work";
   } elseif ($age > 65){
